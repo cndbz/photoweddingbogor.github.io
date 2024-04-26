@@ -1,0 +1,22 @@
+a {
+    text-decoration: none;
+}
+
+body {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-family: "Great Vibes", cursive;
+    font-weight: normal;
+}
+
+.qilil {
+    font-family: "Comic Neue", cursive;
+}
+
+.pendahuluan {
+    font-family: "Roboto", sans-serif;
+    font-weight: normal;
+}
